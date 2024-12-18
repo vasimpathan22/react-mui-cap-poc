@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.app",
+  "appName": "react-cap-poc",
+  "webDir": "dist",
+  "server": {
+    "url": "http://192.168.1.176:5173",
+    "cleartext": true
+  }
+}
